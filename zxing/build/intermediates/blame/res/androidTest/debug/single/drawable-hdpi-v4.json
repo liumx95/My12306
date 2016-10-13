@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\My12603\\zxing\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\My12603\\zxing\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AppSpace\\My12603\\zxing\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\scan_light.png",
+        "source": "E:\\AppSpace\\My12603\\zxing\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\scan_light.png"
+    },
+    {
+        "merged": "E:\\My12603\\zxing\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\scan_light.png",
+        "source": "E:\\My12603\\zxing\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\scan_light.png"
+    },
+    {
+        "merged": "E:\\AppSpace\\My12603\\zxing\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\btn_back_normal.png",
+        "source": "E:\\AppSpace\\My12603\\zxing\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\btn_back_normal.png"
+    },
+    {
+        "merged": "E:\\My12603\\zxing\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\btn_back_press.png",
+        "source": "E:\\My12603\\zxing\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\btn_back_press.png"
+    },
+    {
+        "merged": "E:\\AppSpace\\My12603\\zxing\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\AppSpace\\My12603\\zxing\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\My12603\\zxing\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\btn_back_normal.png",
+        "source": "E:\\My12603\\zxing\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\btn_back_normal.png"
+    },
+    {
+        "merged": "E:\\AppSpace\\My12603\\zxing\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\btn_back_press.png",
+        "source": "E:\\AppSpace\\My12603\\zxing\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\btn_back_press.png"
+    }
+]

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+  <ListView
+      android:layout_centerHorizontal="true"
+      android:id="@+id/lv_list"
+      android:layout_alignParentTop="true"
+      android:layout_width="280dp"
+      android:layout_height="match_parent"
+      android:layout_marginBottom="80dp"
+      ></ListView>
+
+    <Button
+        android:id="@+id/btn_fragment"
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:text="退出登录"
+        android:layout_alignBottom="@+id/lv_list"
+        android:layout_centerHorizontal="true"
+        android:background="@color/colorRed"
+        />
+
+</RelativeLayout>

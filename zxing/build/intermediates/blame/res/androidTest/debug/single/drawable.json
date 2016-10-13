@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "E:\\AppSpace\\My12603\\zxing\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\shape_main_edit.xml",
+        "source": "E:\\AppSpace\\My12603\\zxing\\build\\intermediates\\bundles\\debug\\res\\drawable\\shape_main_edit.xml"
+    },
+    {
+        "merged": "E:\\My12603\\zxing\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\shape_main_imageview.xml",
+        "source": "E:\\My12603\\zxing\\build\\intermediates\\bundles\\debug\\res\\drawable\\shape_main_imageview.xml"
+    },
+    {
+        "merged": "E:\\My12603\\zxing\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\shape_main_edit.xml",
+        "source": "E:\\My12603\\zxing\\build\\intermediates\\bundles\\debug\\res\\drawable\\shape_main_edit.xml"
+    },
+    {
+        "merged": "E:\\My12603\\zxing\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\shape_main_title.xml",
+        "source": "E:\\My12603\\zxing\\build\\intermediates\\bundles\\debug\\res\\drawable\\shape_main_title.xml"
+    },
+    {
+        "merged": "E:\\My12603\\zxing\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\shape_main_button.xml",
+        "source": "E:\\My12603\\zxing\\build\\intermediates\\bundles\\debug\\res\\drawable\\shape_main_button.xml"
+    },
+    {
+        "merged": "E:\\My12603\\zxing\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_main_button.xml",
+        "source": "E:\\My12603\\zxing\\build\\intermediates\\bundles\\debug\\res\\drawable\\selector_main_button.xml"
+    },
+    {
+        "merged": "E:\\AppSpace\\My12603\\zxing\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_main_button.xml",
+        "source": "E:\\AppSpace\\My12603\\zxing\\build\\intermediates\\bundles\\debug\\res\\drawable\\selector_main_button.xml"
+    },
+    {
+        "merged": "E:\\AppSpace\\My12603\\zxing\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\shape_main_imageview.xml",
+        "source": "E:\\AppSpace\\My12603\\zxing\\build\\intermediates\\bundles\\debug\\res\\drawable\\shape_main_imageview.xml"
+    },
+    {
+        "merged": "E:\\My12603\\zxing\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_capture_back.xml",
+        "source": "E:\\My12603\\zxing\\build\\intermediates\\bundles\\debug\\res\\drawable\\selector_capture_back.xml"
+    },
+    {
+        "merged": "E:\\AppSpace\\My12603\\zxing\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\shape_main_button.xml",
+        "source": "E:\\AppSpace\\My12603\\zxing\\build\\intermediates\\bundles\\debug\\res\\drawable\\shape_main_button.xml"
+    },
+    {
+        "merged": "E:\\AppSpace\\My12603\\zxing\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\shape_main_title.xml",
+        "source": "E:\\AppSpace\\My12603\\zxing\\build\\intermediates\\bundles\\debug\\res\\drawable\\shape_main_title.xml"
+    },
+    {
+        "merged": "E:\\AppSpace\\My12603\\zxing\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\selector_capture_back.xml",
+        "source": "E:\\AppSpace\\My12603\\zxing\\build\\intermediates\\bundles\\debug\\res\\drawable\\selector_capture_back.xml"
+    }
+]

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="30dp"
+    >
+ <ListView
+     android:id="@+id/lv_edit"
+     android:layout_width="match_parent"
+     android:layout_height="match_parent"
+     android:layout_marginBottom="100dp"
+     ></ListView>
+ <Button
+     android:id="@+id/btn_save"
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:text="保存"
+     android:textColor="#fff"
+     android:background="#0066cc"
+     android:layout_alignParentBottom="true"
+     />
+
+
+</RelativeLayout>

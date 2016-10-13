@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+       android:id="@+id/mn_finduser_contact"
+        android:orderInCategory="100"
+        android:title="查找联系人"
+        android:showAsAction="always"
+        android:icon="@drawable/find_user_25"
+        />
+</menu>

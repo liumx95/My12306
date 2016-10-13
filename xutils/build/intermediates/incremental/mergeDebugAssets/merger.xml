@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\AppSpace\My12603\xutils\src\main\assets"><file name="img/wallpaper.jpg" path="E:\AppSpace\My12603\xutils\src\main\assets\img\wallpaper.jpg"/></source><source path="E:\AppSpace\My12603\xutils\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="E:\AppSpace\My12603\xutils\src\debug\assets"/></dataSet></merger>

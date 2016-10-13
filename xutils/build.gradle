@@ -1,0 +1,24 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 8
+    buildToolsVersion "19.1.0"
+
+    defaultConfig {
+//        applicationId "com.lidroid.xutils.sample"
+        minSdkVersion 8
+        targetSdkVersion 17
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-project.txt'
+        }
+    }
+}
+
+dependencies {
+    compile project(':library')
+    compile 'com.android.support:support-v4:18.+'
+}
